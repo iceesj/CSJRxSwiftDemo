@@ -1,0 +1,6 @@
+framework module Pods_CSJRxSwiftDemo {
+  umbrella header "Pods-CSJRxSwiftDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
